@@ -9,7 +9,7 @@
 <body>
 <div class="container">
   <h1>Meta™</h1>
-  <button class="button"><a href="YOUR_DISCORD_INVITE_LINK">Join Our Discord</a></button>
+  <button class="button"><a href="https://discord.com/invite/Yv8dpKSnVM">Join Our Discord</a></button>
 </div>
 </body>
 </html>
